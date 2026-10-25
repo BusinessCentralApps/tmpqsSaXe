@@ -1,10 +1,11 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/fb27afbcab20378ab0ac0978e7efe4131bdc0962/Actions/.Modules/settings.schema.json",
   "MicrosoftTelemetryConnectionString": "",
   "templateUrl": "https://github.com/businesscentralapps/tmpageVVM-PTE@main",
   "type": "PTE",
   "runs-on": "ubuntu-latest",
   "doNotPublishApps": true,
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/fb27afbcab20378ab0ac0978e7efe4131bdc0962/Actions/.Modules/settings.schema.json",
   "useCompilerFolder": true,
-  "shell": "pwsh"
+  "shell": "pwsh",
+  "templateSha": "9cc8842d2e3f7c9e7b96d7587f6bc4ed184678ed"
 }
